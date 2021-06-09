@@ -1,8 +1,6 @@
 # Netbeans-Veiculos-07-06-Updated
 
 Implementar botoes de pesquisa
-Colocar criptografia
-FrmModelo - borda, borda na tabela, dispose, titulo 
 
 tbfabricante
 id	int(11) pk ai
